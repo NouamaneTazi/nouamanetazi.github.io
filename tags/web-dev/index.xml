@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Web Dev | Academic</title>
-    <link>/tags/web-dev/</link>
-      <atom:link href="/tags/web-dev/index.xml" rel="self" type="application/rss+xml" />
+    <title>Web Dev | Nouamane Tazi | Homepage</title>
+    <link>https://nouamanetazi.github.io/tags/web-dev/</link>
+      <atom:link href="https://nouamanetazi.github.io/tags/web-dev/index.xml" rel="self" type="application/rss+xml" />
     <description>Web Dev</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://nouamanetazi.github.io/img/icon-192.png</url>
       <title>Web Dev</title>
-      <link>/tags/web-dev/</link>
+      <link>https://nouamanetazi.github.io/tags/web-dev/</link>
     </image>
     
     <item>
       <title>Pictionary</title>
-      <link>/project/pictionary/</link>
+      <link>https://nouamanetazi.github.io/project/pictionary/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/pictionary/</guid>
+      <guid>https://nouamanetazi.github.io/project/pictionary/</guid>
       <description></description>
     </item>
     

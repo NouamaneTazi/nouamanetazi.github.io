@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Academic</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | Nouamane Tazi | Homepage</title>
+    <link>https://nouamanetazi.github.io/project/</link>
+      <atom:link href="https://nouamanetazi.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://nouamanetazi.github.io/img/icon-192.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://nouamanetazi.github.io/project/</link>
     </image>
     
     <item>
       <title>Autonomous Robot</title>
-      <link>/project/autonomous-robot/</link>
+      <link>https://nouamanetazi.github.io/project/autonomous-robot/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/autonomous-robot/</guid>
+      <guid>https://nouamanetazi.github.io/project/autonomous-robot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pictionary</title>
-      <link>/project/pictionary/</link>
+      <link>https://nouamanetazi.github.io/project/pictionary/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/pictionary/</guid>
+      <guid>https://nouamanetazi.github.io/project/pictionary/</guid>
       <description></description>
     </item>
     

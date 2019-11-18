@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Academic</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Web Dev | Academic</title>
+    <link>/tags/web-dev/</link>
+      <atom:link href="/tags/web-dev/index.xml" rel="self" type="application/rss+xml" />
+    <description>Web Dev</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Projects</title>
-      <link>/project/</link>
+      <title>Web Dev</title>
+      <link>/tags/web-dev/</link>
     </image>
-    
-    <item>
-      <title>Autonomous Robot</title>
-      <link>/project/autonomous-robot/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/autonomous-robot/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Pictionary</title>

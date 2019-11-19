@@ -92,15 +92,43 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
 
 
 
-  
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-152866805-1"></script>
 <script>
-  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-WWX75B9');
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-152866805-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
 </script>
 
+
+  
 
 
   
@@ -402,8 +430,6 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
   <article class="article">
 
   
-  
-
 
 
 
@@ -493,8 +519,6 @@ Examples Code Academic supports a Markdown extension for highlighting code synta
     <span class="article-header-caption">Image credit: <a href="https://unsplash.com/photos/OGZtQF8iC0g" target="_blank"><strong>John Moeses Bauan</strong></a></span>
   </div>
 </div>
-
-
 
 
   <div class="article-container">

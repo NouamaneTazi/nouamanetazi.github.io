@@ -89,43 +89,15 @@
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-152866805-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           document.location = url;
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target);  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-152866805-1', {});
-
   
-  document.addEventListener('click', onClickCallback, false);
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WWX75B9');
 </script>
 
-
-  
 
 
   
@@ -762,6 +734,19 @@
             <a class="card-link" href="https://www.coursera.org" target="_blank" rel="noopener">
               See certificate
             </a>
+          
+        </div>
+      </div>
+    
+      <div class="card experience course">
+        <div class="card-body"><h4 class="card-title exp-title text-muted my-0">Being part in the founding team of the IA Club of CentraleSupélec</h4><div class="card-subtitle my-0 article-metadata"><a href="https://automatants.cs-campus.fr" target="_blank" rel="noopener">Automatants</a><span class="middot-divider"></span>
+
+            Dec 2018
+            
+          </div>
+
+          
+
           
         </div>
       </div>

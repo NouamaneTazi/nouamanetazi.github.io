@@ -34,17 +34,17 @@
   
   <url>
     <loc>https://nouamanetazi.github.io/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nouamanetazi.github.io/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <loc>https://nouamanetazi.github.io/post/conseils-prepa/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://nouamanetazi.github.io/authors/admin/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -59,7 +59,7 @@
   
   <url>
     <loc>https://nouamanetazi.github.io/authors/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -79,12 +79,7 @@
   
   <url>
     <loc>https://nouamanetazi.github.io/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nouamanetazi.github.io/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -133,26 +128,6 @@
   </url>
   
   <url>
-    <loc>https://nouamanetazi.github.io/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nouamanetazi.github.io/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nouamanetazi.github.io/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nouamanetazi.github.io/categories/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nouamanetazi.github.io/publication_types/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -175,6 +150,10 @@
   <url>
     <loc>https://nouamanetazi.github.io/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nouamanetazi.github.io/categories/</loc>
   </url>
   
   <url>

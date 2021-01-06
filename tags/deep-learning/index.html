@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Professor of Artificial Intelligence">
+  <meta name="description" content="2nd year student at [CentraleSupélec](https://www.centralesupelec.fr/en)">
 
   
-  <link rel="alternate" hreflang="en-us" href="/tags/deep-learning/">
+  <link rel="alternate" hreflang="en-us" href="https://nouamanetazi.github.io/tags/deep-learning/">
 
   
 
@@ -67,8 +67,6 @@
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
-    
 
     
 
@@ -91,18 +89,54 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-152866805-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-152866805-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
   
-  <link rel="alternate" href="/tags/deep-learning/index.xml" type="application/rss+xml" title="Academic">
+  <link rel="alternate" href="/tags/deep-learning/index.xml" type="application/rss+xml" title="Nouamane Tazi | Homepage">
   
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/tags/deep-learning/">
+  <link rel="canonical" href="https://nouamanetazi.github.io/tags/deep-learning/">
 
   
   
@@ -114,30 +148,30 @@
   
   <meta property="twitter:card" content="summary">
   
-  <meta property="og:site_name" content="Academic">
-  <meta property="og:url" content="/tags/deep-learning/">
-  <meta property="og:title" content="Deep Learning | Academic">
-  <meta property="og:description" content="Professor of Artificial Intelligence"><meta property="og:image" content="/img/icon-192.png">
-  <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:site_name" content="Nouamane Tazi | Homepage">
+  <meta property="og:url" content="https://nouamanetazi.github.io/tags/deep-learning/">
+  <meta property="og:title" content="Deep Learning | Nouamane Tazi | Homepage">
+  <meta property="og:description" content="2nd year student at [CentraleSupélec](https://www.centralesupelec.fr/en)"><meta property="og:image" content="https://nouamanetazi.github.io/img/icon-512.png">
+  <meta property="twitter:image" content="https://nouamanetazi.github.io/img/icon-512.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2016-04-27T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-12-25T00:00:00&#43;00:00">
   
-
-  
-
-
-
-
-  
-
 
   
 
 
 
 
+  
 
-  <title>Deep Learning | Academic</title>
+
+  
+
+
+
+
+
+  <title>Deep Learning | Nouamane Tazi | Homepage</title>
 
 </head>
 
@@ -182,7 +216,7 @@
     
     
     
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/"><img src="/img/icon-512.png" alt="Nouamane Tazi | Homepage"></a>
     
 
     
@@ -223,7 +257,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#hero"><span>Demo</span></a>
+          <a class="nav-link " href="/#posts"><span>Posts</span></a>
         </li>
 
         
@@ -252,7 +286,36 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          <a class="nav-link " href="/#experience"><span>Experience</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#accomplishments"><span>Accomplishments</span></a>
         </li>
 
         
@@ -310,29 +373,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#featured"><span>Publications</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/courses/"><span>Courses</span></a>
+          <a class="nav-link " href="/#talks"><span>Talks</span></a>
         </li>
 
         
@@ -362,6 +403,28 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/files/cv_reduced.pdf"><span>CV</span></a>
         </li>
 
         
@@ -423,17 +486,16 @@
 </div>
 
 
-
 <div class="universal-wrapper">
   
 
   
   
   <div>
-    <h2><a href="/project/internal-project/">Internal Project</a></h2>
+    <h2><a href="/project/arabic-ocr/">Arabic OCR</a></h2>
     <div class="article-style">
       
-      An example of using the in-built project page.
+      An `open-source` OCR tool that extracts Arabic text from images and scanned documents so that it can be edited formatted, indexed, searched, or translated.
       
     </div>
   </div>
@@ -471,8 +533,6 @@
     
 
     
-    
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
     
 
     
@@ -558,12 +618,11 @@
   
 
   <p class="powered-by">
-    
+	©
+    2021 &middot; 
 
-    Powered by the
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
-
+    Nouamane Tazi 
+	
     
     <span class="float-right" aria-hidden="true">
       <a href="#" class="back-to-top">

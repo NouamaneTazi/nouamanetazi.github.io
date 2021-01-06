@@ -5,7 +5,7 @@
     <link>https://nouamanetazi.github.io/</link>
       <atom:link href="https://nouamanetazi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Nouamane Tazi | Homepage</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Fri, 25 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nouamanetazi.github.io/img/icon-512.png</url>
       <title>Nouamane Tazi | Homepage</title>
@@ -80,6 +80,14 @@
 
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Arabic OCR</title>
+      <link>https://nouamanetazi.github.io/project/arabic-ocr/</link>
+      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://nouamanetazi.github.io/project/arabic-ocr/</guid>
+      <description></description>
     </item>
     
     <item>

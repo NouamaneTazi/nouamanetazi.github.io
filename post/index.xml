@@ -1,126 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts | Nouamane Tazi | Homepage</title>
-    <link>https://nouamanetazi.github.io/post/</link>
-      <atom:link href="https://nouamanetazi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://nouamanetazi.github.io/img/icon-512.png</url>
-      <title>Posts</title>
-      <link>https://nouamanetazi.github.io/post/</link>
-    </image>
-    
-    <item>
-      <title>Study Tips for preparatory classes students.</title>
-      <link>https://nouamanetazi.github.io/post/conseils-prepa/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://nouamanetazi.github.io/post/conseils-prepa/</guid>
-      <description>&lt;h2 id=&#34;de-manière-générale-&#34;&gt;De manière générale :&lt;/h2&gt;
-
-&lt;h4 id=&#34;la-bonne-gestion-du-temps-&#34;&gt;La bonne gestion du temps :&lt;/h4&gt;
-
-&lt;p&gt;L’ultime ressource de la prépa!  Il me faut commencer tout d’abord par fixer mes priorités, et me débarrasser de tout ce qui peut attendre (jeux vidéos, séries, animes…). Certainement pas m’en débarrasser complètement mais ça ne doit surtout pas empiéter sur le temps consacré aux études. Après une journée de travail, je peux toujours me permettre une petite pause avant de dormir pour me reposer comme je veux. De plus, au lieu de me balader toute la soirée après la fin des cours et faire une nuit blanche après, il vaut mieux commencer à bosser le plus tôt possible, et aller faire ce que je veux quand je sens que j’ai assez travaillé pour la nuit .&lt;/p&gt;
-
-&lt;h4 id=&#34;bien-se-nourrir-et-se-reposer-&#34;&gt;Bien se nourrir et se reposer :&lt;/h4&gt;
-
-&lt;p&gt;Il ne faut ni dormir moins et se fatiguer, ni céder à la dépression et dormir tout le temps. Il me faut garder un régime équilibré dans lequel je me sens à l’aise et capable (ou presque) de bien suivre en classe et de travailler un peu seul la nuit avant de dormir. Ne vous comparez jamais aux autres. A chacun son rythme et la quantité de sommeil qui lui convient. Certains n’ont besoin que de 4h-5h pour se recharger complètement. Je dois plutôt trouver le rythme qui me correspond personnellement, en gardant une certaine flexibilité bien sûr (en dormant plus tôt quand on je me sens fatigué.e, et veillant un peu quand j’en suis motivé.e).&lt;/p&gt;
-
-&lt;h4 id=&#34;limportance-dassister-aux-cours-&#34;&gt;L’importance d’assister aux cours :&lt;/h4&gt;
-
-&lt;p&gt;Ce prof me fait perdre 2h de mon précieux temps chaque jour. Si j’avais travaillé chez moi ces 2h j’aurai beaucoup avancé. Telle est la fameuse excuse. On devrait savoir qu’en séchant mes cours, je travaillerais peut-être correctement les 1ers jours mais après quelques jours, je commencerais à me réveiller plus tard, je commencerais à nettoyer ma chambre, ou regarder une vidéo que je n’avais pas le temps de regarder… ou je me ferais un snack bonus. Dès qu’on a un temps libre, on le remplit inconsciemment de choses nettement moins importantes que les études. Si j’assiste aux cours, ce n’est pas seulement pour les profs (même s’il y en a qui méritent, un grand respect à eux !), mais surtout pour maintenir une hygiène de vie bien équilibrée en prépa. Au pire des cas, même si j’ai l’impression que mon prof,  qui est bien AGRÉGÉ, me fait perdre du temps, et si je ne veux pas m’embêter à suivre son rythme, je peux totalement venir en classe en ayant en tête mes objectifs pour cette séance (comme ça je vais me forcer à travailler 2h sur mes propres lacunes, ce qui est un plus par rapport aux gens qui se laissent guider par un prof qui explique mal).&lt;/p&gt;
-
-&lt;h4 id=&#34;travailler-ou-se-reposer-&#34;&gt;Travailler ou se reposer ?&lt;/h4&gt;
-
-&lt;p&gt;Certes, le repos est nécessaire parfois pour mieux récupérer et pouvoir continuer à travailler par la suite. Mais, à mon avis, le plus utile serait de travailler d’une manière qui va nous remonter le moral. En revenant par exemple sur des bases que je maîtrise et avançant petit à petit jusqu’aux points qui me bloquent. L’intérêt n’est pas de nous forcer à travailler (qui va certainement être très lourd physiquement et psychiquement), mais de transformer un cours qu’on déteste à un cours qu’on aime bien et qu’on s’amuse à travailler. On peut y arriver en comprenant vraiment les bases du cours. (On ne déteste en maths par exemple que les cours qu’on n’a pas eu le temps de bien comprendre). Et je vous garantis qu’en travaillant de cette manière et en gardant le moral haut, on aura jamais besoin de récupérer.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h2 id=&#34;maths-&#34;&gt;Maths :&lt;/h2&gt;
-
-&lt;h4 id=&#34;schématiser-&#34;&gt;Schématiser :&lt;/h4&gt;
-
-&lt;p&gt;$f\text{ lipschitzienne} \iff $&lt;br&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;lipschitz.gif&#34; &gt;
-&lt;img src=&#34;lipschitz.gif&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;p&gt;J’essaie toujours de chercher des schémas pour bien comprendre les différents théorèmes. C’est la méthode la plus rapide, la plus efficace et qui restera le plus en mémoire. Il faut essayer autant que possible d’assigner un concept ou un théorème à un schéma dans sa tête.&lt;/p&gt;
-
-&lt;h4 id=&#34;bien-sassurer-davoir-bien-compris-les-bases-&#34;&gt;Bien s’assurer d’avoir bien compris les bases :&lt;/h4&gt;
-
-&lt;p&gt;Si je sens que je n’arrive pas à avancer dans ce cours ou que les concepts commencent à se mélanger dans ma tête.. il ne faut ABSOLUMENT PAS continuer. Je recule immédiatement en arrière pour bien assimiler les cours d’avant, même si je m’oblige à retravailler les exos des 1ers cours. La continuité des cours en mathématiques joue un rôle très important dans la bonne maîtrise et la bonne assimilation des contenus des différents chapitres.&lt;/p&gt;
-
-&lt;h4 id=&#34;ne-jamais-se-sousestimer-&#34;&gt;Ne jamais se sous-estimer :&lt;/h4&gt;
-
-&lt;p&gt;Ca fait 2h que je suis bloqué sur un exercice dont j’ai entendu un ami dire qu’il était facile à résoudre. Je commence à douter de mon intelligence, et à avoir des questions existentielles sur l’utilité de mon potentiel. NON, NON et NON ! Sache que tu n’es pas le seul qui as eu ce problème. Sache que la comparaison que t’es en train de faire avec ton ami ne sert absolument à rien et que la seule chose que t’es en train de faire c’est de perdre ton temps, ainsi que d’épuiser ton énergie en vain. T’as choisi de faire la prépa. Tu vas continuer à te battre jusqu’à ce que tu atteignes ton but. Ta vie est complètement indépendante de celle de tes quelques camarades de classe. Tu vas te classer avec des milliers et des milliers de candidats de différents lycées. Je peux déjà te garantir qu’il y a une centaine de gens dont t’as jamais entendu le nom qui vont te battre en classement SEULEMENT parce que t’as perdu quelques minutes chaque semaine à te comparer avec tes camarades de classe. Sache que ton plus grand ennemi c’est toi-même. Ton moral jouera un rôle très important cette année. Sois intelligent(e) et garde ton calme.&lt;/p&gt;
-
-&lt;h4 id=&#34;savoir-travailler-le-cours-&#34;&gt;Savoir travailler le cours :&lt;/h4&gt;
-
-&lt;p&gt;Le cours est la clé en maths. Il est indispensable de savoir redémontrer tout théorème vu en classe avant même de commencer les exercices. Cela permettra de bien assimiler le cours, et de se familiariser avec ses notions. Une bonne astuce serait de noter aussi l’astuce de chaque démonstration à côté du théorème pour ne pas l’oublier.&lt;/p&gt;
-
-&lt;h4 id=&#34;savoir-travailler-les-exercices-&#34;&gt;Savoir travailler les exercices :&lt;/h4&gt;
-
-&lt;p&gt;Si le cours donné en prépa est à peu près le même, c’est les exercices qui font la différence entre les candidats et la manière dont ils les travaillent. Je ne dois jamais avoir peur de passer 4h à travailler un seul exercice, si je me sens vraiment en train de bien réfléchir, d’essayer les différentes méthodes qui me viennent à l’esprit et de me débarrasser de celles qui ne marchent pas, de réviser même les théorèmes et les démos vus en cours avant de les utiliser. C’est exactement ça qui permet une très bonne maîtrise du cours à la fin de l’année. Alors que si en regardant un exercice et qu’il n’y a aucune piste qui me vient à l’esprit, soit je dois revoir mon cours. soit l’exercice demande une astuce qu’on ne peut pas faire sans (eh oui, c’est les pires exos !). La gradation est bien sûr très recommandée dans les exercices. Et si je me retrouve à jouer avec mon stylo, à nager dans mes pensées, à méditer dans le mur en face de moi, une bouffée d’air frais ou une petite marche est très recommandée pour me changer les idées. Le système intensif de la prépa n’épargne personne et on se retrouve tous dans ces moments de fatigue. Si après 2 ou 3 essais de retravailler l’exo, cela ne marche toujours pas, alors soit j’essaie avec un autre exercice, soit je fais autre chose.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h2 id=&#34;physique-&#34;&gt;Physique :&lt;/h2&gt;
-
-&lt;h4 id=&#34;toutenun-&#34;&gt;Tout-en-un :&lt;/h4&gt;
-
-&lt;p&gt;Tout le monde n’est pas du même avis mais, personnellement, je pense que c’est l’unique livre dont vous avez besoin + les anciennes annales. Je dois le lire patiemment et consciemment pour bien assimiler le tas d’informations qu’il contient. Et ensuite je passe aux exos qui sont suffisants pour aller travailler les anciennes épreuves après.&lt;/p&gt;
-
-&lt;p&gt;Les deux matières qu’on peut gérer avec moins d’effort à condition d’un travail continu durant l’année :&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h2 id=&#34;informatique-&#34;&gt;Informatique :&lt;/h2&gt;
-
-&lt;h4 id=&#34;maîtriser-python-&#34;&gt;Maîtriser Python :&lt;/h4&gt;
-
-&lt;p&gt;La majorité se plaignent de ne pas avoir un bon prof d’info alors que c’est la matière qui demande le moins un prof. Découvrir les bases grâce aux tutos sur internet. Maîtriser ces bases en travaillant quelques exercices faciles sur internet aussi. Passer à coder les quelques méthodes en maths qu’on doit savoir coder sur python (Méthode de Newton – Diagonalisation des matrices…). Et je suis aussi bon que prêt !&lt;/p&gt;
-
-&lt;h4 id=&#34;maîtriser-sql-&#34;&gt;Maîtriser SQL :&lt;/h4&gt;
-
-&lt;p&gt;Découvrir les 5 ou 6 clauses qu’on doit connaître (SELECT FROM WHERE…), et travailler une série de 15 questions corrigées sur les différentes clauses. And that’s it !&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h2 id=&#34;sciences-de-lingénieur-&#34;&gt;Sciences de l&#39;Ingénieur :&lt;/h2&gt;
-
-&lt;h4 id=&#34;bien-comprendre-la-structure-du-cours-&#34;&gt;Bien comprendre la structure du cours :&lt;/h4&gt;
-
-&lt;p&gt;Le programme de la S.I au moins pour les MPs est composé de deux moitiés : la mécanique et l’asservissement. Lorsque je termine une moitié en cours je passe travailler des anciens CFs / CNCs dessus. Je vais remarquer comment les épreuves sont très similaires.&lt;/p&gt;
-
-&lt;h4 id=&#34;sentraîner-à-faire-les-calculs-&#34;&gt;S’entraîner à faire les calculs :&lt;/h4&gt;
-
-&lt;p&gt;L’épreuve de la S.I ne fera pas de surprises, je peux même aller à l’épreuve connaissant toutes les questions que je vais avoir. Mais il s’agit surtout de savoir faire les calculs RAPIDEMENT et EFFICACEMENT, en utilisant les astuces que j’ai apprises en travaillant beaucoup d’exos avant, et de m’assurer de ne pas m’être trompé sur les calculs.&lt;/p&gt;
-
-&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Nouamane Tazi | Homepage</title><link>https://nouamanetazi.github.io/post/</link><atom:link href="https://nouamanetazi.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate><image><url>https://nouamanetazi.github.io/img/icon-512.png</url><title>Posts</title><link>https://nouamanetazi.github.io/post/</link></image><item><title>Study Tips for preparatory classes students.</title><link>https://nouamanetazi.github.io/post/conseils-prepa/</link><pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate><guid>https://nouamanetazi.github.io/post/conseils-prepa/</guid><description>&lt;h2 id="de-manière-générale-">De manière générale :&lt;/h2>
+&lt;h4 id="la-bonne-gestion-du-temps-">La bonne gestion du temps :&lt;/h4>
+&lt;p>L’ultime ressource de la prépa! Il me faut commencer tout d’abord par fixer mes priorités, et me débarrasser de tout ce qui peut attendre (jeux vidéos, séries, animes…). Certainement pas m’en débarrasser complètement mais ça ne doit surtout pas empiéter sur le temps consacré aux études. Après une journée de travail, je peux toujours me permettre une petite pause avant de dormir pour me reposer comme je veux. De plus, au lieu de me balader toute la soirée après la fin des cours et faire une nuit blanche après, il vaut mieux commencer à bosser le plus tôt possible, et aller faire ce que je veux quand je sens que j’ai assez travaillé pour la nuit .&lt;/p>
+&lt;h4 id="bien-se-nourrir-et-se-reposer-">Bien se nourrir et se reposer :&lt;/h4>
+&lt;p>Il ne faut ni dormir moins et se fatiguer, ni céder à la dépression et dormir tout le temps. Il me faut garder un régime équilibré dans lequel je me sens à l’aise et capable (ou presque) de bien suivre en classe et de travailler un peu seul la nuit avant de dormir. Ne vous comparez jamais aux autres. A chacun son rythme et la quantité de sommeil qui lui convient. Certains n’ont besoin que de 4h-5h pour se recharger complètement. Je dois plutôt trouver le rythme qui me correspond personnellement, en gardant une certaine flexibilité bien sûr (en dormant plus tôt quand on je me sens fatigué.e, et veillant un peu quand j’en suis motivé.e).&lt;/p>
+&lt;h4 id="limportance-dassister-aux-cours-">L’importance d’assister aux cours :&lt;/h4>
+&lt;p>Ce prof me fait perdre 2h de mon précieux temps chaque jour. Si j’avais travaillé chez moi ces 2h j’aurai beaucoup avancé. Telle est la fameuse excuse. On devrait savoir qu’en séchant mes cours, je travaillerais peut-être correctement les 1ers jours mais après quelques jours, je commencerais à me réveiller plus tard, je commencerais à nettoyer ma chambre, ou regarder une vidéo que je n’avais pas le temps de regarder… ou je me ferais un snack bonus. Dès qu’on a un temps libre, on le remplit inconsciemment de choses nettement moins importantes que les études. Si j’assiste aux cours, ce n’est pas seulement pour les profs (même s’il y en a qui méritent, un grand respect à eux !), mais surtout pour maintenir une hygiène de vie bien équilibrée en prépa. Au pire des cas, même si j’ai l’impression que mon prof, qui est bien AGRÉGÉ, me fait perdre du temps, et si je ne veux pas m’embêter à suivre son rythme, je peux totalement venir en classe en ayant en tête mes objectifs pour cette séance (comme ça je vais me forcer à travailler 2h sur mes propres lacunes, ce qui est un plus par rapport aux gens qui se laissent guider par un prof qui explique mal).&lt;/p>
+&lt;h4 id="travailler-ou-se-reposer-">Travailler ou se reposer ?&lt;/h4>
+&lt;p>Certes, le repos est nécessaire parfois pour mieux récupérer et pouvoir continuer à travailler par la suite. Mais, à mon avis, le plus utile serait de travailler d’une manière qui va nous remonter le moral. En revenant par exemple sur des bases que je maîtrise et avançant petit à petit jusqu’aux points qui me bloquent. L’intérêt n’est pas de nous forcer à travailler (qui va certainement être très lourd physiquement et psychiquement), mais de transformer un cours qu’on déteste à un cours qu’on aime bien et qu’on s’amuse à travailler. On peut y arriver en comprenant vraiment les bases du cours. (On ne déteste en maths par exemple que les cours qu’on n’a pas eu le temps de bien comprendre). Et je vous garantis qu’en travaillant de cette manière et en gardant le moral haut, on aura jamais besoin de récupérer.&lt;/p>
+&lt;hr>
+&lt;h2 id="maths-">Maths :&lt;/h2>
+&lt;h4 id="schématiser-">Schématiser :&lt;/h4>
+&lt;p>$f\text{ lipschitzienne} \iff $&lt;br>
+&lt;figure>
+&lt;a data-fancybox="" href="lipschitz.gif" >
+&lt;img src="lipschitz.gif" alt="" width="60%" >&lt;/a>
+&lt;/figure>
+&lt;/p>
+&lt;p>J’essaie toujours de chercher des schémas pour bien comprendre les différents théorèmes. C’est la méthode la plus rapide, la plus efficace et qui restera le plus en mémoire. Il faut essayer autant que possible d’assigner un concept ou un théorème à un schéma dans sa tête.&lt;/p>
+&lt;h4 id="bien-sassurer-davoir-bien-compris-les-bases-">Bien s’assurer d’avoir bien compris les bases :&lt;/h4>
+&lt;p>Si je sens que je n’arrive pas à avancer dans ce cours ou que les concepts commencent à se mélanger dans ma tête.. il ne faut ABSOLUMENT PAS continuer. Je recule immédiatement en arrière pour bien assimiler les cours d’avant, même si je m’oblige à retravailler les exos des 1ers cours. La continuité des cours en mathématiques joue un rôle très important dans la bonne maîtrise et la bonne assimilation des contenus des différents chapitres.&lt;/p>
+&lt;h4 id="ne-jamais-se-sous-estimer-">Ne jamais se sous-estimer :&lt;/h4>
+&lt;p>Ca fait 2h que je suis bloqué sur un exercice dont j’ai entendu un ami dire qu’il était facile à résoudre. Je commence à douter de mon intelligence, et à avoir des questions existentielles sur l’utilité de mon potentiel. NON, NON et NON ! Sache que tu n’es pas le seul qui as eu ce problème. Sache que la comparaison que t’es en train de faire avec ton ami ne sert absolument à rien et que la seule chose que t’es en train de faire c’est de perdre ton temps, ainsi que d’épuiser ton énergie en vain. T’as choisi de faire la prépa. Tu vas continuer à te battre jusqu’à ce que tu atteignes ton but. Ta vie est complètement indépendante de celle de tes quelques camarades de classe. Tu vas te classer avec des milliers et des milliers de candidats de différents lycées. Je peux déjà te garantir qu’il y a une centaine de gens dont t’as jamais entendu le nom qui vont te battre en classement SEULEMENT parce que t’as perdu quelques minutes chaque semaine à te comparer avec tes camarades de classe. Sache que ton plus grand ennemi c’est toi-même. Ton moral jouera un rôle très important cette année. Sois intelligent(e) et garde ton calme.&lt;/p>
+&lt;h4 id="savoir-travailler-le-cours-">Savoir travailler le cours :&lt;/h4>
+&lt;p>Le cours est la clé en maths. Il est indispensable de savoir redémontrer tout théorème vu en classe avant même de commencer les exercices. Cela permettra de bien assimiler le cours, et de se familiariser avec ses notions. Une bonne astuce serait de noter aussi l’astuce de chaque démonstration à côté du théorème pour ne pas l’oublier.&lt;/p>
+&lt;h4 id="savoir-travailler-les-exercices-">Savoir travailler les exercices :&lt;/h4>
+&lt;p>Si le cours donné en prépa est à peu près le même, c’est les exercices qui font la différence entre les candidats et la manière dont ils les travaillent. Je ne dois jamais avoir peur de passer 4h à travailler un seul exercice, si je me sens vraiment en train de bien réfléchir, d’essayer les différentes méthodes qui me viennent à l’esprit et de me débarrasser de celles qui ne marchent pas, de réviser même les théorèmes et les démos vus en cours avant de les utiliser. C’est exactement ça qui permet une très bonne maîtrise du cours à la fin de l’année. Alors que si en regardant un exercice et qu’il n’y a aucune piste qui me vient à l’esprit, soit je dois revoir mon cours. soit l’exercice demande une astuce qu’on ne peut pas faire sans (eh oui, c’est les pires exos !). La gradation est bien sûr très recommandée dans les exercices. Et si je me retrouve à jouer avec mon stylo, à nager dans mes pensées, à méditer dans le mur en face de moi, une bouffée d’air frais ou une petite marche est très recommandée pour me changer les idées. Le système intensif de la prépa n’épargne personne et on se retrouve tous dans ces moments de fatigue. Si après 2 ou 3 essais de retravailler l’exo, cela ne marche toujours pas, alors soit j’essaie avec un autre exercice, soit je fais autre chose.&lt;/p>
+&lt;hr>
+&lt;h2 id="physique-">Physique :&lt;/h2>
+&lt;h4 id="tout-en-un-">Tout-en-un :&lt;/h4>
+&lt;p>Tout le monde n’est pas du même avis mais, personnellement, je pense que c’est l’unique livre dont vous avez besoin + les anciennes annales. Je dois le lire patiemment et consciemment pour bien assimiler le tas d’informations qu’il contient. Et ensuite je passe aux exos qui sont suffisants pour aller travailler les anciennes épreuves après.&lt;/p>
+&lt;p>Les deux matières qu’on peut gérer avec moins d’effort à condition d’un travail continu durant l’année :&lt;/p>
+&lt;hr>
+&lt;h2 id="informatique-">Informatique :&lt;/h2>
+&lt;h4 id="maîtriser-python-">Maîtriser Python :&lt;/h4>
+&lt;p>La majorité se plaignent de ne pas avoir un bon prof d’info alors que c’est la matière qui demande le moins un prof. Découvrir les bases grâce aux tutos sur internet. Maîtriser ces bases en travaillant quelques exercices faciles sur internet aussi. Passer à coder les quelques méthodes en maths qu’on doit savoir coder sur python (Méthode de Newton – Diagonalisation des matrices…). Et je suis aussi bon que prêt !&lt;/p>
+&lt;h4 id="maîtriser-sql-">Maîtriser SQL :&lt;/h4>
+&lt;p>Découvrir les 5 ou 6 clauses qu’on doit connaître (SELECT FROM WHERE…), et travailler une série de 15 questions corrigées sur les différentes clauses. And that’s it !&lt;/p>
+&lt;hr>
+&lt;h2 id="sciences-de-lingénieur-">Sciences de l&amp;rsquo;Ingénieur :&lt;/h2>
+&lt;h4 id="bien-comprendre-la-structure-du-cours-">Bien comprendre la structure du cours :&lt;/h4>
+&lt;p>Le programme de la S.I au moins pour les MPs est composé de deux moitiés : la mécanique et l’asservissement. Lorsque je termine une moitié en cours je passe travailler des anciens CFs / CNCs dessus. Je vais remarquer comment les épreuves sont très similaires.&lt;/p>
+&lt;h4 id="sentraîner-à-faire-les-calculs-">S’entraîner à faire les calculs :&lt;/h4>
+&lt;p>L’épreuve de la S.I ne fera pas de surprises, je peux même aller à l’épreuve connaissant toutes les questions que je vais avoir. Mais il s’agit surtout de savoir faire les calculs RAPIDEMENT et EFFICACEMENT, en utilisant les astuces que j’ai apprises en travaillant beaucoup d’exos avant, et de m’assurer de ne pas m’être trompé sur les calculs.&lt;/p>
+&lt;h3 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h3></description></item></channel></rss>

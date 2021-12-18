@@ -42,15 +42,7 @@ $$&lt;/p>
 {{% fragment %}} **Two** {{% /fragment %}}
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code>&lt;/pre>&lt;p>Press &lt;code>Space&lt;/code> to play!&lt;/p>
-&lt;p>&lt;!-- raw HTML omitted -->
-One
 &lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;strong>Two&lt;/strong>
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-Three
-&lt;!-- raw HTML omitted -->&lt;/p>
 &lt;hr>
 &lt;p>A fragment can accept two optional parameters:&lt;/p>
 &lt;ul>
@@ -152,15 +144,7 @@ $$&lt;/p>
 {{% fragment %}} **Two** {{% /fragment %}}
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code>&lt;/pre>&lt;p>Press &lt;code>Space&lt;/code> to play!&lt;/p>
-&lt;p>&lt;!-- raw HTML omitted -->
-One
 &lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-&lt;strong>Two&lt;/strong>
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
-Three
-&lt;!-- raw HTML omitted -->&lt;/p>
 &lt;hr>
 &lt;p>A fragment can accept two optional parameters:&lt;/p>
 &lt;ul>

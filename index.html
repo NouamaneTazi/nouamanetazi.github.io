@@ -28,7 +28,7 @@
 <meta property="og:title" content="Nouamane Tazi | Homepage">
 <meta property="og:description" content="Final year Master's student in AI at [University of Paris Saclay - CentraleSupélec](https://www.centralesupelec.fr/en)"><meta property="og:image" content="https://nouamanetazi.github.io/img/icon-512.png">
 <meta property="twitter:image" content="https://nouamanetazi.github.io/img/icon-512.png"><meta property="og:locale" content="en-us">
-<meta property="og:updated_time" content="2021-12-15T00:00:00+00:00">
+<meta property="og:updated_time" content="2022-02-12T00:00:00+00:00">
 <script type=application/ld+json>{"@context":"https://schema.org","@type":"WebSite","potentialAction":{"@type":"SearchAction","target":"https://nouamanetazi.github.io/?q={search_term_string}","query-input":"required name=search_term_string"},"url":"https://nouamanetazi.github.io/"}</script>
 <script type=text/javascript>window.$crisp=[],window.CRISP_WEBSITE_ID="e6cf2da7-2308-49c1-92b3-262fadc7ed5f",function(){d=document,s=d.createElement("script"),s.src="https://client.crisp.chat/l.js",s.async=1,d.getElementsByTagName("head")[0].appendChild(s)}()</script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-152866805-1"></script>
@@ -326,7 +326,7 @@ Jun 2020
 <div class=card-text><ul>
 <li><strong>Machine Learning</strong> Used machine learning techniques to help predict the runway condition using aircraft braking data. (Our
 best model&rsquo;s MAE is 0.01, and is currently being developed by SAFRAN&rsquo;s team for better results)</li>
-<li><strong>Data Analysis</strong> Identified most prominent factors in runway condition with eective use of data to help SAFRAN take informed
+<li><strong>Data Analysis</strong> Identified most prominent factors in runway condition with effective use of data to help SAFRAN take informed
 decisions.</li>
 <li><strong>Recommendation</strong> Designed dashboards and presentation decks to present key insights and actionable recommendations to
 clients.</li>
@@ -466,9 +466,12 @@ See certificate
 <div class=btn-toolbar>
 <div class="btn-group flex-wrap">
 <a href=# data-filter=* class="btn btn-primary btn-lg active">All</a>
-<a href=# data-filter=.js-id-PINN class="btn btn-primary btn-lg">PINN</a>
 <a href=# data-filter=.js-id-Time-Series class="btn btn-primary btn-lg">Time Series</a>
 <a href=# data-filter=.js-id-NLP class="btn btn-primary btn-lg">NLP</a>
+<a href=# data-filter=.js-id-Speech class="btn btn-primary btn-lg">Speech</a>
+<a href=# data-filter=.js-id-Computer-Vision class="btn btn-primary btn-lg">Computer Vision</a>
+<a href=# data-filter=.js-id-PINN class="btn btn-primary btn-lg">PINN</a>
+<a href=# data-filter=.js-id-TinyML class="btn btn-primary btn-lg">TinyML</a>
 <a href=# data-filter=.js-id-Software-Engineering class="btn btn-primary btn-lg">Software Engineering</a>
 <a href=# data-filter=.js-id-Robotics class="btn btn-primary btn-lg">Robotics</a>
 <a href=# data-filter=.js-id-Web-Dev class="btn btn-primary btn-lg">Web Dev</a>
@@ -480,13 +483,130 @@ See certificate
 <div class="col-lg-12 project-item isotope-item js-id-NLP js-id-ML-Engineering">
 <div class="row align-items-center">
 <div class="col-12 col-md-6">
+<h3 class="article-title mb-0 mt-0">HuggingFace Search Engine</h3>
+<div class=article-style>
+A semantic search engine for HuggingFace using <a href=https://www.sbert.net/><code>sentence-transformers</code></a>
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary my-1 mr-1" href=https://github.com/NouamaneTazi/hf_search target=_blank rel=noopener>
+<i class="fab fa-github"></i>
+</a>
+<a class="btn btn-outline-primary my-1 mr-1" href=https://huggingface.co/spaces/nouamanetazi/hf-search target=_blank rel=noopener>
+Demo
+</a>
+</div>
+</div>
+<div class="col-12 col-md-6 order-first">
+<img src=/project/huggingface-search-engine/featured_huf01deaf360eaf830d08b59d670f6f44c_61566_540x0_resize_lanczos_3.png alt>
+</div>
+</div>
+</div>
+<div class="col-lg-12 project-item isotope-item js-id-NLP js-id-Speech js-id-ML-Engineering">
+<div class="row align-items-center">
+<div class="col-12 col-md-6">
+<h3 class="article-title mb-0 mt-0">Arabic Speech Recognition</h3>
+<div class=article-style>
+Fine-tuned Facebook&rsquo;s <code>XLS-R</code> model to transcribe speech in Arabic.
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary my-1 mr-1" href=https://huggingface.co/nouamanetazi/wav2vec2-xls-r-300m-ar target=_blank rel=noopener>
+<i class="fa fa-laptop-code mr-1"></i>
+Model
+</a>
+</div>
+</div>
+<div class="col-12 col-md-6 order-first order-md-2">
+<img src=/project/arabic-speech-recognition/featured_hu78c804380929d285724af47cc24dc0ea_33790_540x0_resize_lanczos_3.png alt>
+</div>
+</div>
+</div>
+<div class="col-lg-12 project-item isotope-item js-id-NLP js-id-ML-Engineering">
+<div class="row align-items-center">
+<div class="col-12 col-md-6">
+<h3 class="article-title mb-0 mt-0">Clinical NLP</h3>
+<div class=article-style>
+Performing multiple NLP tasks (<code>NER</code>, <code>Relation Extraction</code>, <code>NLI</code>&mldr;) on a EHR database.
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary my-1 mr-1" href=https://github.com/Mustapha-AJEGHRIR/medical_txt_parser target=_blank rel=noopener>
+<i class="fab fa-github"></i>
+</a>
+</div>
+</div>
+<div class="col-12 col-md-6 order-first">
+<img src=/project/clinical-nlp/featured_huf01deaf360eaf830d08b59d670f6f44c_61566_540x0_resize_lanczos_3.png alt>
+</div>
+</div>
+</div>
+<div class="col-lg-12 project-item isotope-item js-id-Computer-Vision">
+<div class="row align-items-center">
+<div class="col-12 col-md-6">
+<h3 class="article-title mb-0 mt-0">License Plates Detection</h3>
+<div class=article-style>
+Fine-tuned Facebook&rsquo;s <code>DETR</code> model to detect moroccan vehicules license plates.
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary my-1 mr-1" href=https://www.kaggle.com/nouamane/fine-tuning-detr-for-license-plates-detection target=_blank rel=noopener>
+<i class="fa fa-laptop-code mr-1"></i>
+Kaggle
+</a>
+</div>
+</div>
+<div class="col-12 col-md-6 order-first order-md-2">
+<img src=/project/license-plates-detection/featured_hub69ee05d0481bb31e5c3f6145f2166a3_235513_540x0_resize_lanczos_3.png alt>
+</div>
+</div>
+</div>
+<div class="col-lg-12 project-item isotope-item js-id-PINNs js-id-Digital-Twin">
+<div class="row align-items-center">
+<div class="col-12 col-md-6">
+<h3 class="article-title mb-0 mt-0">Simulating Magnetic Bearings</h3>
+<div class=article-style>
+Modeling complex magnetic bearings using <a href=https://github.com/lululxvi/deepxde><code>deepxde</code></a> for PINNs.
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary my-1 mr-1" href=https://huggingface.co/nouamanetazi/wav2vec2-xls-r-300m-ar target=_blank rel=noopener>
+<i class="fa fa-laptop-code mr-1"></i>
+Model
+</a>
+<a class="btn btn-outline-primary my-1 mr-1" href=https://nouamanetazi.me/talk/ai4ia/ target=_blank rel=noopener>
+Project
+</a>
+</div>
+</div>
+<div class="col-12 col-md-6 order-first">
+<img src=/project/pinns/featured_hu13e97cfc134378d6ff3e4fc896ffdd89_238307_540x0_resize_lanczos_3.png alt>
+</div>
+</div>
+</div>
+<div class="col-lg-12 project-item isotope-item js-id-Time-Series js-id-ML-Engineering">
+<div class="row align-items-center">
+<div class="col-12 col-md-6">
+<h3 class="article-title mb-0 mt-0">Paris Traffic Forecasting</h3>
+<div class=article-style>
+Forecasting paris traffic using paris' opendata and Google&rsquo;s <code>TFT</code> model
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary my-1 mr-1" href=https://github.com/NouamaneTazi/paris-traffic-forecast target=_blank rel=noopener>
+<i class="fab fa-github"></i>
+</a>
+</div>
+</div>
+<div class="col-12 col-md-6 order-first order-md-2">
+<img src=/project/paris-traffic-forecast/featured_hu89c7f1b65dba0f426561b61d189e8ffd_95372_540x0_resize_lanczos_3.png alt>
+</div>
+</div>
+</div>
+<div class="col-lg-12 project-item isotope-item js-id-NLP js-id-ML-Engineering">
+<div class="row align-items-center">
+<div class="col-12 col-md-6">
 <h3 class="article-title mb-0 mt-0">Cover Letter Generator</h3>
 <div class=article-style>
 A cover letter generator featuring a fine-tuned <code>T5-base</code> model on a scraped cover letters database.
 </div>
 <div class=btn-links>
 <a class="btn btn-outline-primary my-1 mr-1" href=https://huggingface.co/spaces/nouamanetazi/cover-letter-generator target=_blank rel=noopener>
-Project
+<i class="fab fa-github"></i>
 </a>
 </div>
 </div>
